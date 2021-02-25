@@ -19,8 +19,8 @@ AI의 창의성과 문장구성능력에 대하여는 많은 이견이 있지만
 - 텍스트 정제 후 의미 단락으로 구분<br><br>
 
 ### 모델 구성 및 학습
-- 사용한 모델: LSTM, RNN
-- LSTM의 echos, iteration, batch_size 파라미터 조정<br><br>
+- 사용한 모델: `LSTM`, `RNN`
+- LSTM의 `echos, iteration, batch_size` 파라미터 조정<br><br>
 
 ### 구현 결과
 
