@@ -10,7 +10,7 @@ AI의 창의성과 문장구성능력에 대하여는 많은 이견이 있지만
 
 ### 사용 언어 및 오픈 소스
 - Python
-- Jupiter notebook<br><br>
+- Jupyter notebook<br><br>
 
 ### 데이터 수집 및 전처리
 - [작가후기]와 같이 웹소설의 내용과 관련이 없는 부분 삭제
