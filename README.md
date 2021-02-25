@@ -44,3 +44,4 @@ Generating text after epoch: 39
 
 ### Details
 > [결론 / 코드 및 보고서](https://github.com/GyeongahNa/AI_novel_generator/blob/main/codes.ipynb)
+> 학습에 사용된 데이터는 저작권 보호를 위해 비공개하였습니다.
